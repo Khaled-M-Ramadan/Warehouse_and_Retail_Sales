@@ -1,3 +1,4 @@
+![Screenshot 2025-06-14 220400](https://github.com/user-attachments/assets/2a1fb071-ec8f-4951-a3ed-ee8286544448)
 # Warehouse_and_Retail_Sales
 data process
 Data processing was performed using Python (pandas, numpy), and the following processing procedures were followed:
